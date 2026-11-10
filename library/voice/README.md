@@ -15,4 +15,4 @@ The standard, settled with Colin on 2026-11-09 after testing on the Mars retrogr
 
 **Video:** record the Reel with its lines timed to the voice: `?cues=` (ms each sentence starts, counting the 0.5 s lead-in) and `?end=` (ms the end card comes in, about 0.3 s after the voice ends), with `REELS_MS` = end + 3 s. Each line leaves in the gap before the next sentence.
 
-**Sound:** a voiced Reel gets no trending sound over the voice, or only one kept very low; that's Colin's pick in Metricool.
+**Sound:** whether a trending sound goes under the voice, and how loud, is Colin's call in Metricool (not yet decided).
