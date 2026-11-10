@@ -15,4 +15,8 @@ The standard, settled with Colin on 2026-11-09 after testing on the Mars retrogr
 
 **Video:** record the Reel with its lines timed to the voice: `?cues=` (ms each sentence starts, counting the 0.5 s lead-in) and `?end=` (ms the end card comes in, about 0.3 s after the voice ends), with `REELS_MS` = end + 3 s. Each line leaves in the gap before the next sentence.
 
-**Sound:** whether a trending sound goes under the voice, and how loud, is Colin's call in Metricool (not yet decided).
+**Sound:** no trending sound under the voice (Colin, 2026-11-10). A voiced Reel goes out with its own voice and room tone only; trending sounds stay for the captions-only Reels.
+
+**Which Reels:** the lessons, the composite sign-by-sign videos and the Mars videos are voiced (17 of the 30 in `library/2026-12`). Sky events, countdowns and the launch-day videos stay captions only, with a trending sound, and the chime on about one in five.
+
+The scripts for those 17 are in `scripts.md` next to this file.
