@@ -14,10 +14,10 @@ What is said in each voiced video of `library/2026-12`.
 
 ## 02-composite-moon
 
-- How do you two comfort each other?
+- What feels like home to the two of you?
 - Look at the Moon in your composite chart, the one you make together.
 - Each sign has its own way of making you both feel safe.
-- Maya and Theo's is in Taurus: steady routines, good food, and staying close.
+- Maya and Theo's is in Taurus: home is the same good evening, again.
 
 ## 03-houses
 
@@ -33,10 +33,10 @@ What is said in each voiced video of `library/2026-12`.
 
 ## 09-composite-venus
 
-- How do you two show love?
+- How does love show between you?
 - Look at Venus in your composite chart.
 - Each sign shows affection in its own way.
-- Maya and Theo's is in Pisces: romance, art, and losing track of time.
+- Maya and Theo's is in Pisces: love shows in tenderness.
 
 ## 10-seventh-house
 
@@ -69,10 +69,10 @@ What is said in each voiced video of `library/2026-12`.
 
 ## 17-composite-ascendant
 
-- How do other people see the two of you?
+- How do the two of you meet the world?
 - Look at the Ascendant of your composite chart.
 - It's the first impression you make as a pair.
-- Maya and Theo's is in Gemini: chatty, bright, and full of plans.
+- Maya and Theo's is in Gemini: they walk in mid-conversation.
 
 ## 21-whats-free
 
