@@ -16,4 +16,4 @@ Voiced astrology videos for December 14 to 24, approved by Colin on 2026-11-19. 
 | two-charts-5-composite-or-davison.mp4 | Two charts together | 5. Composite or Davison? |
 | two-charts-6-key-day.mp4 | Two charts together | 6. A key day for two |
 
-The guide series (How Overlay works), the countdown clips and the cut-downs are still to come.
+The guide series (How Overlay works) is in `library/guide`. The countdown clips and the cut-downs are still to come.
