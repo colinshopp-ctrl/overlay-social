@@ -1,6 +1,6 @@
 # How Overlay works
 
-The guide series: twelve short videos recorded from the demo account, one per part of the app. Part 11 (Friends) was re-recorded on 2026-11-21 with all five demo friends and approved by Colin that day. None are scheduled yet.
+The guide series: twelve short videos recorded from the demo account, one per part of the app. Part 11 (Friends) was re-recorded on 2026-11-21 with all five demo friends and approved by Colin that day; the other eleven were approved on 2026-11-22. All twelve are scheduled on Instagram and TikTok at 6:00 pm Central, two a week from November 24 to December 30, each caption ending on the waitlist.
 
 | File | Part |
 | --- | --- |
