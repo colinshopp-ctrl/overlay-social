@@ -143,3 +143,7 @@ What is said in each voiced video of `library/2026-12`.
 - B. You need to feel respected before you say sorry.
 - C. You'd rather dare each other than play it safe.
 - Send this to the person you'd pick with.
+
+## Week of 2026-11-23
+
+No voiced Reels this week.
